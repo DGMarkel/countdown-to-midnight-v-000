@@ -1,8 +1,8 @@
 #write your code here
 
 def countdown(number)
-  while integer > 0
-    integer -= 1
+  while number > 0
+    number -= 1
   end
 end
 
